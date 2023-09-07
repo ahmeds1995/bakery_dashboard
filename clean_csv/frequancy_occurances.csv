@@ -1,0 +1,1048 @@
+Item_A,Item_B,Frequancy
+Bread,Coffee,1081
+Cake,Coffee,714
+Coffee,Pastry,613
+Coffee,Tea,546
+Coffee,Sandwich,537
+Coffee,Medialuna,438
+Coffee,Cookies,382
+Coffee,"Hot chocolate",341
+Bread,Pastry,313
+Bread,Tea,304
+Coffee,Toast,296
+Cake,Tea,269
+Alfajores,Coffee,268
+Bread,Cake,255
+Coffee,Juice,251
+Brownie,Coffee,237
+Coffee,Muffin,227
+Coffee,Scone,219
+Coffee,Soup,201
+Bread,Sandwich,200
+Bread,Medialuna,174
+Sandwich,Tea,157
+Bread,Cookies,149
+Bread,"Hot chocolate",147
+Coffee,"Spanish Brunch",129
+Alfajores,Bread,121
+Cake,"Hot chocolate",116
+Bread,Brownie,115
+Soup,Tea,109
+Cookies,Tea,101
+Pastry,Tea,100
+Coffee,Tiffin,98
+Bread,Scone,97
+Medialuna,Pastry,96
+Medialuna,Tea,89
+Scone,Tea,89
+Coffee,Salad,84
+"Hot chocolate",Tea,83
+Bread,Muffin,81
+Cake,Sandwich,81
+Bread,Soup,78
+Cake,Cookies,77
+Coffee,Truffles,77
+Bread,Toast,77
+Cookies,"Hot chocolate",76
+Bread,Juice,76
+Coffee,"Farm House",76
+Juice,Sandwich,76
+Coffee,"Jammie Dodgers",76
+Juice,Tea,75
+Alfajores,Tea,73
+Cake,Juice,72
+Coffee,"Hearty & Seasonal",71
+Brownie,Tea,71
+Coffee,Coke,69
+Muffin,Tea,66
+Bread,Scandinavian,66
+Tea,Toast,66
+Cookies,Juice,64
+Coffee,"Mineral water",64
+"Chicken Stew",Coffee,64
+Coke,Sandwich,63
+"Hot chocolate",Pastry,60
+Coffee,"Keeping It Local",60
+Coffee,Scandinavian,56
+"Spanish Brunch",Tea,54
+"Hot chocolate",Medialuna,53
+Sandwich,Soup,53
+Cake,Soup,53
+Bread,Tiffin,52
+Coffee,Jam,51
+Bread,"Farm House",51
+Bread,Jam,51
+Cake,Pastry,51
+Bread,Truffles,51
+Coffee,Frittata,50
+Cake,Muffin,49
+"Hot chocolate",Sandwich,49
+Bread,"Jammie Dodgers",49
+Bread,"Spanish Brunch",49
+Cake,Scone,46
+Sandwich,Truffles,45
+Coffee,"Extra Salami or Feta",45
+Coffee,Smoothies,44
+Alfajores,Cake,44
+Brownie,Cake,43
+Brownie,"Hot chocolate",42
+Alfajores,Sandwich,42
+Cookies,Sandwich,41
+Coffee,"Vegan mincepie",41
+Coffee,"The Nomad",40
+Coffee,Fudge,39
+Alfajores,"Hot chocolate",39
+Cake,Medialuna,39
+Bread,Fudge,38
+"Hot chocolate",Muffin,38
+Alfajores,Pastry,37
+"Art Tray",Coffee,37
+Bakewell,Coffee,37
+Baguette,Coffee,37
+"Mineral water",Sandwich,36
+"Chicken Stew",Tea,36
+Bread,"Mineral water",35
+Fudge,Jam,35
+Coffee,Tartine,34
+Tea,Tiffin,34
+Alfajores,Medialuna,33
+"Hot chocolate",Toast,33
+Cookies,Pastry,31
+Cake,"Jammie Dodgers",31
+Bread,"Hearty & Seasonal",30
+Alfajores,Juice,30
+"Hot chocolate",Scone,30
+"Farm House",Pastry,29
+Cookies,Medialuna,29
+Tea,Truffles,29
+Bread,"Chicken Stew",29
+Juice,Muffin,27
+Bread,Frittata,27
+Alfajores,Cookies,27
+Alfajores,Brownie,27
+Brownie,Sandwich,27
+Baguette,Bread,27
+Juice,"Spanish Brunch",27
+Brownie,Cookies,26
+Cake,Truffles,26
+"Jammie Dodgers",Tea,26
+Bread,Smoothies,26
+Muffin,Pastry,24
+Juice,Pastry,24
+Brownie,Juice,24
+Coffee,Granola,24
+"Hot chocolate",Juice,24
+Pastry,Scone,24
+Cookies,Toast,24
+Brownie,Pastry,23
+Bread,"Keeping It Local",23
+Cake,Tiffin,23
+Cake,"Spanish Brunch",23
+"Hearty & Seasonal",Tea,22
+Muffin,Sandwich,22
+"Farm House",Medialuna,22
+Coke,Juice,22
+Medialuna,Sandwich,22
+Juice,Toast,22
+Cake,Toast,22
+"Chicken Stew",Sandwich,22
+"Mineral water",Soup,21
+Tea,"The Nomad",21
+"Jammie Dodgers",Juice,21
+Coke,Tea,21
+Salad,Tea,21
+Bread,Coke,20
+Juice,Medialuna,20
+Bread,"The Nomad",20
+Sandwich,Toast,20
+Bread,Salad,20
+Salad,Sandwich,20
+Medialuna,Muffin,19
+Frittata,Tea,19
+Bread,Focaccia,19
+Brownie,Medialuna,19
+Sandwich,Smoothies,19
+Sandwich,Scone,19
+Cookies,Scone,19
+Juice,Scone,19
+Juice,Truffles,19
+Sandwich,"Spanish Brunch",19
+Brownie,Muffin,18
+Medialuna,Toast,18
+Juice,Soup,17
+Alfajores,Muffin,17
+"Keeping It Local",Tea,17
+Cake,Coke,17
+"Hot chocolate","Jammie Dodgers",17
+Bread,"Vegan mincepie",17
+Soup,Truffles,17
+"Chicken Stew",Juice,17
+Cake,Smoothies,17
+Cake,"Chicken Stew",17
+"Spanish Brunch",Truffles,17
+Cookies,Muffin,16
+Bread,Eggs,16
+"Farm House",Scandinavian,16
+Juice,"Mineral water",16
+Cake,Scandinavian,16
+Pastry,Truffles,16
+Pastry,Toast,16
+"Extra Salami or Feta",Salad,16
+Fudge,Tea,15
+"Farm House",Tea,15
+Coke,Soup,15
+Alfajores,Scandinavian,15
+Brownie,Soup,15
+Fudge,Sandwich,15
+Cake,"Farm House",15
+Medialuna,Scone,15
+"Chicken Stew",Soup,15
+Cake,Salad,15
+Jam,Tea,14
+"Hearty & Seasonal",Sandwich,14
+Pastry,Scandinavian,14
+Cookies,"Mineral water",14
+Cake,"Mineral water",14
+Alfajores,Scone,14
+"Hot chocolate",Tiffin,14
+Pastry,Sandwich,14
+Medialuna,Scandinavian,13
+Jam,Pastry,13
+Muffin,Scandinavian,13
+Cookies,Soup,13
+"Art Tray",Tea,13
+Bakewell,Tea,13
+Cake,"Vegan mincepie",13
+Salad,Soup,13
+"Hearty & Seasonal",Soup,12
+Coffee,Focaccia,12
+Muffin,Soup,12
+Cookies,"Farm House",12
+Alfajores,"Mineral water",12
+Medialuna,Truffles,12
+"Mineral water",Tea,12
+Cookies,Tiffin,12
+Brownie,Scone,12
+Coke,Truffles,12
+Salad,"Spanish Brunch",12
+Sandwich,Tiffin,12
+Scone,Soup,12
+Brownie,"Farm House",11
+Brownie,Coke,11
+Coke,"Mineral water",11
+Brownie,Truffles,11
+Alfajores,Truffles,11
+Bakewell,Bread,11
+"Mineral water",Truffles,11
+"Chicken Stew","Spanish Brunch",11
+"Jammie Dodgers",Tiffin,11
+Coffee,"Duck egg",11
+Soup,"Spanish Brunch",11
+Bread,"Extra Salami or Feta",11
+Tartine,Tea,10
+Coffee,"Pick and Mix Bowls",10
+Coffee,"Mighty Protein",10
+Pastry,Soup,10
+"Hot chocolate",Smoothies,10
+Cookies,"Jammie Dodgers",10
+"Hot chocolate","Vegan mincepie",10
+Baguette,Cookies,10
+"Spanish Brunch",Toast,10
+"Chicken Stew",Coke,10
+Juice,Salad,10
+"Chicken Stew",Truffles,10
+Alfajores,"Spanish Brunch",10
+"Hot chocolate",Soup,9
+"Hearty & Seasonal","Mineral water",9
+Scandinavian,Tea,9
+Brownie,"Mineral water",9
+Bread,Granola,9
+"Hot chocolate","Mineral water",9
+Smoothies,Tea,9
+"Jammie Dodgers",Muffin,9
+Coke,Cookies,9
+Coffee,Crisps,9
+"Spanish Brunch","The Nomad",9
+Baguette,Scandinavian,9
+Smoothies,"Spanish Brunch",9
+Juice,Tiffin,9
+"Jammie Dodgers",Sandwich,9
+Baguette,Cake,9
+"Hot chocolate","Spanish Brunch",9
+Cake,"Extra Salami or Feta",9
+Bread,Tartine,8
+Coffee,"My-5 Fruit Shoot",8
+Alfajores,Fudge,8
+Coffee,"Ella's Kitchen Pouches",8
+Cake,"Hearty & Seasonal",8
+Frittata,Sandwich,8
+"Farm House","Hot chocolate",8
+Alfajores,"Hearty & Seasonal",8
+Cookies,Scandinavian,8
+"Hot chocolate",Truffles,8
+"Art Tray",Sandwich,8
+"Art Tray",Juice,8
+Bakewell,Cake,8
+Muffin,Smoothies,8
+Alfajores,Tiffin,8
+"Extra Salami or Feta","Spanish Brunch",8
+Baguette,Pastry,8
+Cookies,"Spanish Brunch",8
+Medialuna,"Spanish Brunch",8
+Cake,"The Nomad",8
+Medialuna,Soup,8
+Coke,Pastry,8
+Scone,Truffles,8
+Crisps,Sandwich,8
+"Farm House",Muffin,7
+Smoothies,Soup,7
+"Hearty & Seasonal","Hot chocolate",7
+Alfajores,Soup,7
+"Art Tray",Soup,7
+Cookies,Truffles,7
+Alfajores,Coke,7
+Coffee,"Kids biscuit",7
+"Art Tray","Hot chocolate",7
+Coke,Medialuna,7
+Fudge,Medialuna,7
+Pastry,Tiffin,7
+"Jammie Dodgers",Medialuna,7
+"Mineral water",Scone,7
+Muffin,Scone,7
+Frittata,Scone,7
+Tea,"Vegan mincepie",7
+Cookies,Smoothies,7
+Brownie,Toast,7
+Scone,Tiffin,7
+"Duck egg",Tea,7
+Coffee,Eggs,7
+Baguette,Medialuna,7
+Medialuna,Tiffin,7
+"Extra Salami or Feta",Sandwich,7
+Coke,Salad,7
+Chocolates,Coffee,7
+Salad,Truffles,7
+Granola,Tea,7
+Scone,Toast,7
+"Ella's Kitchen Pouches",Juice,6
+"Hearty & Seasonal",Smoothies,6
+Frittata,"Mineral water",6
+"Hearty & Seasonal",Muffin,6
+Focaccia,Tea,6
+"Farm House",Jam,6
+Bread,"My-5 Fruit Shoot",6
+Brownie,Fudge,6
+Jam,Medialuna,6
+Brownie,"Hearty & Seasonal",6
+Cake,Fudge,6
+Focaccia,Medialuna,6
+Juice,Smoothies,6
+Coke,"Hot chocolate",6
+Frittata,Muffin,6
+"Art Tray",Bread,6
+Cake,Jam,6
+Bakewell,Juice,6
+Coffee,"Lemon and coconut",6
+Muffin,Toast,6
+Alfajores,Toast,6
+Crisps,Juice,6
+Tiffin,Toast,6
+Brownie,Tiffin,6
+Baguette,Brownie,6
+"Farm House",Soup,6
+Coke,"Spanish Brunch",6
+Muffin,Tiffin,6
+Pastry,"The Nomad",6
+"Farm House",Toast,6
+"Duck egg","Spanish Brunch",6
+Postcard,Tshirt,6
+Bread,"Nomad bag",6
+Baguette,"Farm House",6
+"Extra Salami or Feta",Toast,6
+"Extra Salami or Feta",Tea,6
+"Mineral water",Salad,6
+Scone,"Spanish Brunch",6
+Bread,"Drinking chocolate spoons ",6
+"Chicken Stew",Pastry,6
+Coffee,"Nomad bag",6
+Cookies,Jam,5
+Basket,Coffee,5
+Bread,"Ella's Kitchen Pouches",5
+Jam,Juice,5
+Jam,Muffin,5
+"Mineral water",Muffin,5
+Jam,Soup,5
+Fudge,Pastry,5
+Brownie,Scandinavian,5
+Coffee,Empanadas,5
+"Hot chocolate",Scandinavian,5
+"Hearty & Seasonal",Juice,5
+Fudge,"Hot chocolate",5
+Muffin,Truffles,5
+Frittata,Truffles,5
+Bakewell,Sandwich,5
+Juice,"Vegan mincepie",5
+"Jammie Dodgers","Vegan mincepie",5
+"Farm House",Juice,5
+Frittata,Pastry,5
+Juice,"The Nomad",5
+"Chicken Stew",Toast,5
+"Chicken Stew",Medialuna,5
+Coke,Toast,5
+Coffee,"Drinking chocolate spoons ",5
+Tiffin,Truffles,5
+Baguette,"Hot chocolate",5
+"Bare Popcorn",Coffee,5
+Chocolates,"Hot chocolate",5
+Salad,Toast,5
+"Chicken Stew",Cookies,5
+Alfajores,Baguette,5
+Brownie,"Spanish Brunch",5
+Coke,Muffin,5
+Coke,Scone,5
+Coffee,Tacos/Fajita,5
+"Hot chocolate",Jam,4
+Jam,Tartine,4
+Juice,Tartine,4
+Fudge,Scandinavian,4
+Tea,"Victorian Sponge",4
+"Hearty & Seasonal","Pick and Mix Bowls",4
+Fudge,Muffin,4
+Cookies,"My-5 Fruit Shoot",4
+Juice,"Pick and Mix Bowls",4
+Alfajores,"Farm House",4
+Pastry,Smoothies,4
+Focaccia,Pastry,4
+"Farm House",Focaccia,4
+Focaccia,Fudge,4
+Granola,Pastry,4
+Brownie,Smoothies,4
+Brownie,"My-5 Fruit Shoot",4
+Brownie,Frittata,4
+"Art Tray",Brownie,4
+Frittata,Soup,4
+Alfajores,Focaccia,4
+"Bread Pudding",Coffee,4
+Sandwich,Scandinavian,4
+"Art Tray",Cookies,4
+Focaccia,Scandinavian,4
+"Hearty & Seasonal",Truffles,4
+Scandinavian,Truffles,4
+"Art Tray","Hearty & Seasonal",4
+"Ella's Kitchen Pouches",Tea,4
+Coffee,"Dulce de Leche",4
+"Jammie Dodgers",Smoothies,4
+Bakewell,Cookies,4
+"Farm House",Sandwich,4
+Jam,Scandinavian,4
+Smoothies,Toast,4
+Coffee,Crepes,4
+Bread,"Dulce de Leche",4
+"Mineral water",Toast,4
+Scandinavian,Toast,4
+Frittata,Juice,4
+"Farm House",Scone,4
+Scone,"The Nomad",4
+Cookies,Frittata,4
+Medialuna,"The Nomad",4
+"Chicken Stew",Tiffin,4
+Coke,Tiffin,4
+Alfajores,"Jammie Dodgers",4
+"Jammie Dodgers",Scone,4
+"Extra Salami or Feta",Juice,4
+Cookies,"Extra Salami or Feta",4
+"Jammie Dodgers",Truffles,4
+Scandinavian,Scone,4
+"Jammie Dodgers",Pastry,4
+Pastry,"Spanish Brunch",4
+"Chicken Stew","Hot chocolate",4
+Alfajores,Smoothies,4
+"The Nomad",Truffles,4
+Baguette,Toast,4
+Baguette,Scone,4
+Chocolates,Juice,4
+"Afternoon with the baker",Coffee,4
+"Afternoon with the baker",Bread,4
+Brownie,"Chicken Stew",4
+"Mineral water",Tiffin,4
+Cookies,Salad,4
+Bread,"Christmas common",4
+"Mineral water","Spanish Brunch",4
+"Chicken Stew",Salad,4
+Chocolates,Tea,4
+"Art Tray","Spanish Brunch",4
+Brownie,"Jammie Dodgers",4
+Baguette,Salad,4
+"Farm House","Spanish Brunch",4
+Bread,Crisps,4
+Pastry,Tartine,3
+"Mineral water",Scandinavian,3
+"Mighty Protein",Tea,3
+Frittata,Scandinavian,3
+Cake,"My-5 Fruit Shoot",3
+"Ella's Kitchen Pouches",Pastry,3
+"Pick and Mix Bowls",Tartine,3
+"Mineral water","Pick and Mix Bowls",3
+Cookies,Fudge,3
+"Hearty & Seasonal",Pastry,3
+Focaccia,Sandwich,3
+Alfajores,"Dulce de Leche",3
+Cookies,"Ella's Kitchen Pouches",3
+Scandinavian,Soup,3
+Brownie,Jam,3
+"Hearty & Seasonal",Medialuna,3
+"Hot chocolate","My-5 Fruit Shoot",3
+Bread,Empanadas,3
+"Farm House",Fudge,3
+Alfajores,"Art Tray",3
+Jam,Sandwich,3
+Cookies,"Keeping It Local",3
+"Keeping It Local",Pastry,3
+"Ella's Kitchen Pouches",Medialuna,3
+Muffin,"My-5 Fruit Shoot",3
+"Kids biscuit",Muffin,3
+Fudge,Truffles,3
+Cookies,"Hearty & Seasonal",3
+"Art Tray",Muffin,3
+Bakewell,Pastry,3
+Bread,"Lemon and coconut",3
+Alfajores,Crepes,3
+"Mineral water","Vegan mincepie",3
+Cake,Frittata,3
+Bakewell,Toast,3
+Pastry,"Vegan mincepie",3
+Fudge,Juice,3
+Alfajores,"Vegan mincepie",3
+Frittata,Medialuna,3
+Bread,Muesli,3
+Coffee,Muesli,3
+Brownie,"Vegan mincepie",3
+Medialuna,"Mineral water",3
+Cookies,"Vegan mincepie",3
+Toast,Truffles,3
+Alfajores,Salad,3
+Eggs,Pastry,3
+Baguette,Sandwich,3
+Cookies,"The Nomad",3
+"Farm House",Tiffin,3
+Coffee,"Vegan Feast",3
+Muffin,"Spanish Brunch",3
+"Chicken Stew","Mineral water",3
+Cake,Tacos/Fajita,3
+Bread,Tacos/Fajita,3
+Juice,Tacos/Fajita,3
+Salad,Scandinavian,3
+"Art Tray",Cake,3
+Bakewell,"Hot chocolate",3
+Eggs,Juice,3
+Cake,Eggs,3
+Baguette,"Spanish Brunch",3
+"Drinking chocolate spoons ","Hot chocolate",3
+Cake,Granola,3
+Granola,Sandwich,3
+"Drinking chocolate spoons ",Sandwich,3
+Coke,"Farm House",3
+Alfajores,"Chicken Stew",3
+Baguette,Muffin,3
+"Hot chocolate","The Nomad",3
+"The Nomad",Tiffin,3
+Brownie,"Extra Salami or Feta",3
+Baguette,Truffles,3
+Soup,Toast,3
+Baguette,Juice,3
+"Art Tray",Salad,3
+Chocolates,Coke,3
+Cake,"Vegan Feast",3
+Sandwich,"The Nomad",3
+Tacos/Fajita,Tea,3
+Crisps,Truffles,3
+Baguette,Tea,3
+Jam,"Spanish Brunch",3
+Coffee,"Coffee granules ",3
+"Afternoon with the baker",Tea,3
+Crisps,"Hot chocolate",3
+Granola,Toast,3
+Basket,Bread,2
+Muffin,Tartine,2
+"Ella's Kitchen Pouches",Muffin,2
+"Ella's Kitchen Pouches",Jam,2
+Bread,"Victorian Sponge",2
+Frittata,"Hearty & Seasonal",2
+Frittata,Jam,2
+Cookies,"Pick and Mix Bowls",2
+"Farm House","Hearty & Seasonal",2
+"Hearty & Seasonal","Mighty Protein",2
+Coke,"Hearty & Seasonal",2
+Cookies,Tartine,2
+Focaccia,"Hearty & Seasonal",2
+"Pick and Mix Bowls",Sandwich,2
+Brownie,Focaccia,2
+Cake,Focaccia,2
+"Dulce de Leche",Medialuna,2
+Juice,"My-5 Fruit Shoot",2
+Honey,Tea,2
+Coffee,Honey,2
+"Mineral water",Tartine,2
+Alfajores,Jam,2
+Brownie,Tartine,2
+Sandwich,Tartine,2
+"Dulce de Leche",Fudge,2
+Granola,Scandinavian,2
+Basket,"Hot chocolate",2
+Medialuna,Smoothies,2
+"Hot chocolate",Tartine,2
+Brownie,"Pick and Mix Bowls",2
+Jam,"Pick and Mix Bowls",2
+Coke,Frittata,2
+Medialuna,Tartine,2
+Empanadas,Tea,2
+"Dulce de Leche",Pastry,2
+Alfajores,Frittata,2
+"Art Tray",Frittata,2
+"Bowl Nic Pitt",Coffee,2
+Eggs,Fudge,2
+Focaccia,Soup,2
+Jam,"Keeping It Local",2
+Eggs,Scandinavian,2
+Bacon,Coffee,2
+"Hearty & Seasonal","Keeping It Local",2
+Bread,"Kids biscuit",2
+"Art Tray",Pastry,2
+"Art Tray","My-5 Fruit Shoot",2
+"Keeping It Local",Medialuna,2
+"Caramel bites",Coffee,2
+"My-5 Fruit Shoot",Sandwich,2
+Alfajores,"My-5 Fruit Shoot",2
+Cookies,Focaccia,2
+Cake,"Dulce de Leche",2
+"Farm House",Truffles,2
+"Hot chocolate","Keeping It Local",2
+"Art Tray","Hack the stack",2
+Bakewell,"Jammie Dodgers",2
+Bakewell,Brownie,2
+"Lemon and coconut",Sandwich,2
+"Lemon and coconut",Tea,2
+Cake,"Lemon and coconut",2
+Crepes,Medialuna,2
+Toast,"Vegan mincepie",2
+Fudge,"The Nomad",2
+Brownie,"The Nomad",2
+"Art Tray",Truffles,2
+Fudge,Toast,2
+Bakewell,Medialuna,2
+Frittata,Toast,2
+Alfajores,Bakewell,2
+"Art Tray",Toast,2
+Sandwich,"Vegan mincepie",2
+Medialuna,"Vegan mincepie",2
+"Ella's Kitchen Pouches",Fudge,2
+"Farm House",Frittata,2
+Frittata,Fudge,2
+Focaccia,Scone,2
+Crisps,"Mineral water",2
+Crisps,Medialuna,2
+Crisps,Frittata,2
+"Brioche and salami",Coffee,2
+"Brioche and salami",Tea,2
+Frittata,Smoothies,2
+"Mineral water",Smoothies,2
+Pastry,Salad,2
+Coffee,"Gingerbread syrup",2
+"Art Tray","Chicken Stew",2
+Eggs,"Hot chocolate",2
+"Chicken Stew","Jammie Dodgers",2
+Soup,Tiffin,2
+"Drinking chocolate spoons ",Juice,2
+Tiffin,"Vegan mincepie",2
+Coffee,"Half slice Monster ",2
+"Half slice Monster ",Juice,2
+"Spanish Brunch",Tiffin,2
+"Jammie Dodgers","Spanish Brunch",2
+Cookies,"Vegan Feast",2
+Bakewell,Soup,2
+Tacos/Fajita,Truffles,2
+"Bare Popcorn",Juice,2
+"Bare Popcorn",Cookies,2
+Smoothies,Tiffin,2
+Salad,Tiffin,2
+Bread,"Brioche and salami",2
+Scone,Smoothies,2
+Bread,Chocolates,2
+Chocolates,Cookies,2
+"Afternoon with the baker",Juice,2
+Cookies,"Duck egg",2
+Cake,"Duck egg",2
+"Chicken Stew",Scone,2
+Eggs,Medialuna,2
+"Duck egg",Truffles,2
+Salad,Scone,2
+"Christmas common",Jam,2
+"Cherry me Dried fruit",Coffee,2
+"Chicken Stew","The Nomad",2
+Granola,"Hot chocolate",2
+Bread,Honey,2
+"Drinking chocolate spoons ","Mineral water",2
+Muesli,Tea,2
+Coke,Crisps,2
+Frittata,Salad,2
+"Extra Salami or Feta",Scandinavian,2
+"Extra Salami or Feta",Truffles,2
+Cake,"Coffee granules ",2
+"Afternoon with the baker",Brownie,2
+Coke,Smoothies,2
+"Afternoon with the baker","Spanish Brunch",2
+Salad,Smoothies,2
+"Hot chocolate",Salad,2
+Granola,"Spanish Brunch",2
+Jam,Scone,2
+"Farm House",Salad,2
+Cake,"Nomad bag",2
+"Chicken Stew",Smoothies,2
+"Extra Salami or Feta","Hot chocolate",2
+"Raw bars",Tea,2
+Fudge,"Gingerbread syrup",2
+Cookies,Crisps,2
+"Mineral water",Pastry,2
+Tshirt,"Valentine's card",2
+"Chicken Stew",Fudge,2
+"Afternoon with the baker",Cookies,2
+Granola,Juice,2
+"Chicken Stew",Granola,2
+Muffin,Salad,2
+Baguette,Bakewell,2
+"Argentina Night",Tea,2
+"Afternoon with the baker","Argentina Night",2
+Muffin,"The Nomad",2
+"Hearty & Seasonal",Scone,2
+"Raspberry shortbread sandwich",Tea,2
+Fudge,"Spanish Brunch",2
+"Duck egg","Extra Salami or Feta",2
+Bread,"Duck egg",2
+"Chicken Stew","Extra Salami or Feta",2
+Smoothies,"The Nomad",2
+"Extra Salami or Feta",Soup,2
+Jam,Salad,2
+Coke,Tacos/Fajita,2
+Soup,"Victorian Sponge",1
+"Hot chocolate","Victorian Sponge",1
+"Pick and Mix Bowls",Smoothies,1
+"Mighty Protein",Tartine,1
+"Chicken sand",Frittata,1
+"Chicken sand",Coffee,1
+"Chicken sand",Tea,1
+"Chicken sand",Scandinavian,1
+"Pick and Mix Bowls",Tea,1
+Coke,"Mighty Protein",1
+"Hearty & Seasonal",Scandinavian,1
+Coke,Tartine,1
+Coke,"Pick and Mix Bowls",1
+Alfajores,"Pick and Mix Bowls",1
+Juice,"Mighty Protein",1
+"My-5 Fruit Shoot",Tartine,1
+"My-5 Fruit Shoot",Pastry,1
+Focaccia,"Pick and Mix Bowls",1
+Bread,"Pick and Mix Bowls",1
+Brownie,"Ella's Kitchen Pouches",1
+Alfajores,"Ella's Kitchen Pouches",1
+"Ella's Kitchen Pouches","My-5 Fruit Shoot",1
+Cookies,Honey,1
+Bread,"The BART",1
+Alfajores,Tartine,1
+Fudge,Granola,1
+"My-5 Fruit Shoot",Scandinavian,1
+Cake,"Mighty Protein",1
+Scandinavian,"Victorian Sponge",1
+Cake,"Victorian Sponge",1
+"Fairy Doors",Focaccia,1
+"Hot chocolate","Pick and Mix Bowls",1
+"Pick and Mix Bowls",Soup,1
+Basket,"Farm House",1
+Focaccia,Muffin,1
+"Mighty Protein",Soup,1
+Alfajores,"Victorian Sponge",1
+Empanadas,Muffin,1
+Alfajores,Empanadas,1
+Scandinavian,Tartine,1
+Empanadas,Scandinavian,1
+Empanadas,Medialuna,1
+"Farm House",Tartine,1
+"Bowl Nic Pitt",Brownie,1
+"Bowl Nic Pitt","Hearty & Seasonal",1
+"Bowl Nic Pitt",Soup,1
+"Bread Pudding",Sandwich,1
+"Bread Pudding",Fudge,1
+"Bread Pudding",Jam,1
+"Bread Pudding",Soup,1
+Empanadas,Soup,1
+"Chimichurri Oil",Scandinavian,1
+"Chimichurri Oil","Farm House",1
+"Fairy Doors",Scandinavian,1
+Fudge,Soup,1
+Coke,Fudge,1
+"Bowl Nic Pitt",Frittata,1
+"Bowl Nic Pitt",Muffin,1
+"Keeping It Local",Scandinavian,1
+Alfajores,"Keeping It Local",1
+"Keeping It Local",Muffin,1
+"Art Tray",Bacon,1
+Bacon,Juice,1
+Jam,Spread,1
+Bread,Spread,1
+Frittata,"Keeping It Local",1
+"Art Tray",Tartine,1
+"Kids biscuit","My-5 Fruit Shoot",1
+Fudge,"My-5 Fruit Shoot",1
+Fudge,"Kids biscuit",1
+"Kids biscuit","Mineral water",1
+"My-5 Fruit Shoot",Soup,1
+"Caramel bites",Medialuna,1
+"Keeping It Local",Soup,1
+"Kids biscuit",Soup,1
+Bread,"Caramel bites",1
+"Caramel bites","Jammie Dodgers",1
+"Jammie Dodgers","My-5 Fruit Shoot",1
+"Caramel bites","My-5 Fruit Shoot",1
+"Kids biscuit",Tea,1
+"Caramel bites",Tea,1
+"Caramel bites","Kids biscuit",1
+"Jammie Dodgers",Scandinavian,1
+Juice,Scandinavian,1
+"Keeping It Local",Smoothies,1
+Focaccia,Juice,1
+Brownie,"Dulce de Leche",1
+"Farm House","Keeping It Local",1
+"Keeping It Local","My-5 Fruit Shoot",1
+Cake,"Keeping It Local",1
+Bread,"Olum & polenta",1
+Polenta,Tea,1
+Coffee,"Hack the stack",1
+"Hack the stack","My-5 Fruit Shoot",1
+"My-5 Fruit Shoot",Tea,1
+"Hack the stack",Tea,1
+Brownie,"Keeping It Local",1
+Tartine,"The Nomad",1
+Bakewell,Smoothies,1
+Bakewell,Muffin,1
+"Hearty & Seasonal",Tartine,1
+"Art Tray",Bakewell,1
+Jam,Smoothies,1
+Bakewell,"Lemon and coconut",1
+"Ella's Kitchen Pouches",Tiffin,1
+Fudge,"Keeping It Local",1
+"Art Tray","Keeping It Local",1
+Fudge,Spread,1
+Fudge,Tartine,1
+Crepes,Sandwich,1
+Bread,Crepes,1
+Crepes,"Farm House",1
+Crepes,Scone,1
+"Art Tray","Jammie Dodgers",1
+Jam,Toast,1
+Scandinavian,"Vegan mincepie",1
+Bakewell,"Farm House",1
+"Bare Popcorn","Ella's Kitchen Pouches",1
+"Ella's Kitchen Pouches",Truffles,1
+"Lemon and coconut",Scone,1
+"Dulce de Leche",Scandinavian,1
+Coke,Pintxos,1
+Muesli,"The Nomad",1
+Cake,Tartine,1
+"Brioche and salami",Cake,1
+"Brioche and salami",Scone,1
+Juice,"Lemon and coconut",1
+Smoothies,Truffles,1
+Fudge,Smoothies,1
+Frittata,"Vegan mincepie",1
+"Extra Salami or Feta",Granola,1
+Alfajores,Eggs,1
+"Hot chocolate",Tshirt,1
+Bread,Tshirt,1
+Pastry,"Vegan Feast",1
+"Half slice Monster ",Tiffin,1
+"Chicken Stew",Muffin,1
+Jam,"The Nomad",1
+Bread,"Vegan Feast",1
+Brownie,"Vegan Feast",1
+"Hot chocolate","Vegan Feast",1
+Alfajores,Tacos/Fajita,1
+"Art Tray","Bare Popcorn",1
+"Bare Popcorn",Brownie,1
+"Bare Popcorn",Muffin,1
+"Bare Popcorn",Cake,1
+Cookies,Panatone,1
+Cake,Panatone,1
+Muffin,Panatone,1
+Brownie,Panatone,1
+Coffee,Panatone,1
+Juice,Panatone,1
+"Bare Popcorn",Panatone,1
+"Art Tray",Panatone,1
+Focaccia,Jam,1
+Salad,"Valentine's card",1
+Cake,"Valentine's card",1
+Coke,Tshirt,1
+"Nomad bag",Scandinavian,1
+"Chicken Stew",Eggs,1
+Soup,"The Nomad",1
+"Duck egg","Hot chocolate",1
+Eggs,"Farm House",1
+Baguette,"Vegan mincepie",1
+"Duck egg",Sandwich,1
+"Duck egg",Soup,1
+Coke,"The Nomad",1
+Granola,Medialuna,1
+Granola,Muffin,1
+Honey,"Jammie Dodgers",1
+"Drinking chocolate spoons ",Salad,1
+Honey,Pastry,1
+"Half slice Monster ","Hot chocolate",1
+"Half slice Monster ","My-5 Fruit Shoot",1
+"The Nomad",Toast,1
+"Ella's Kitchen Pouches",Sandwich,1
+Cake,Crisps,1
+Bread,"Gingerbread syrup",1
+"Nomad bag",Postcard,1
+"Nomad bag",Tshirt,1
+Alfajores,"The Nomad",1
+"Art Tray","The Nomad",1
+Cookies,Eggs,1
+Fudge,Scone,1
+"Jammie Dodgers",Toast,1
+Coke,"Extra Salami or Feta",1
+Jam,Truffles,1
+"Argentina Night","Vegan Feast",1
+Baguette,Fudge,1
+Bakewell,Truffles,1
+Tacos/Fajita,Toast,1
+Cookies,Muesli,1
+"Hearty & Seasonal",Tiffin,1
+"Art Tray",Coke,1
+Bakewell,"Spanish Brunch",1
+"Bare Popcorn",Salad,1
+"Bare Popcorn","Extra Salami or Feta",1
+"Bare Popcorn","Spanish Brunch",1
+"Extra Salami or Feta","Farm House",1
+"Bare Popcorn","Farm House",1
+"Farm House","Gingerbread syrup",1
+Granola,"The Nomad",1
+Cookies,Granola,1
+Granola,Scone,1
+Tea,"Vegan Feast",1
+Coffee,Postcard,1
+Brownie,Salad,1
+Medialuna,Salad,1
+"Art Tray",Baguette,1
+Chocolates,"Jammie Dodgers",1
+"Nomad bag",Scone,1
+"Farm House",Smoothies,1
+"Chicken Stew","Farm House",1
+"Art Tray",Scone,1
+Muffin,"Vegan Feast",1
+Chocolates,Sandwich,1
+"Afternoon with the baker",Soup,1
+Cake,"Cherry me Dried fruit",1
+"Cherry me Dried fruit",Toast,1
+"Cherry me Dried fruit","Extra Salami or Feta",1
+"Cherry me Dried fruit","Hot chocolate",1
+Honey,Scandinavian,1
+"Christmas common","Hot chocolate",1
+"Cherry me Dried fruit",Eggs,1
+"Gingerbread syrup",Jam,1
+"Hot chocolate","Lemon and coconut",1
+Frittata,"The Nomad",1
+"Farm House","Jammie Dodgers",1
+"Afternoon with the baker",Cake,1
+Fudge,Tshirt,1
+Eggs,"Jammie Dodgers",1
+"Duck egg",Jam,1
+"Coffee granules ","Extra Salami or Feta",1
+"Coffee granules ",Salad,1
+Cookies,"Half slice Monster ",1
+Granola,"Mineral water",1
+Bakewell,Coke,1
+Bakewell,"Mineral water",1
+Bakewell,Salad,1
+Baguette,"Extra Salami or Feta",1
+"Extra Salami or Feta",Muffin,1
+Crisps,Smoothies,1
+Alfajores,Crisps,1
+"Argentina Night",Granola,1
+"Afternoon with the baker",Granola,1
+Bread,Panatone,1
+"Bare Popcorn",Sandwich,1
+"Bare Popcorn","Hot chocolate",1
+"Bare Popcorn",Crisps,1
+Granola,Tiffin,1
+"Afternoon with the baker",Scandinavian,1
+Coffee,"Raspberry shortbread sandwich",1
+Bread,"Raspberry shortbread sandwich",1
+Postcard,"Valentine's card",1
+"Afternoon with the baker",Truffles,1
+"Afternoon with the baker","Duck egg",1
+"Afternoon with the baker","Extra Salami or Feta",1
+"Duck egg",Toast,1
+Brownie,"Duck egg",1
+"Chicken Stew","Duck egg",1
+Bread,"Gift voucher",1
+"Argentina Night",Bread,1
+"Argentina Night",Sandwich,1
+"Nomad bag",Sandwich,1
+"Nomad bag","Spanish Brunch",1
+Juice,"Nomad bag",1
+"Coffee granules ","Farm House",1
+Bakewell,Scone,1
+Alfajores,"Brioche and salami",1
+Muffin,Tacos/Fajita,1
+"Gingerbread syrup",Tea,1
+"Gingerbread syrup",Juice,1
+"Gingerbread syrup",Muffin,1
+"Gingerbread syrup",Pastry,1
+"Gingerbread syrup",Medialuna,1
+Truffles,"Vegan mincepie",1
+"Chicken Stew",Focaccia,1
+Brownie,"Raspberry shortbread sandwich",1
+"Afternoon with the baker","Hot chocolate",1
+"Afternoon with the baker",Smoothies,1
+"Afternoon with the baker","The Nomad",1
+Bakewell,"Chicken Stew",1
+Coffee,Tshirt,1
+Truffles,Tshirt,1
+"Nomad bag",Pastry,1
+Eggs,"Nomad bag",1
+Cake,Chocolates,1
+Granola,Smoothies,1
+Coke,Granola,1
+Brownie,"Drinking chocolate spoons ",1
+"Duck egg","The Nomad",1
+"Drinking chocolate spoons ",Muffin,1
+"Drinking chocolate spoons ",Pastry,1
+Cake,"Half slice Monster ",1
+Alfajores,Chocolates,1
+Chocolates,Tiffin,1
+Chocolates,Pastry,1
+Chocolates,"Mineral water",1
+"Christmas common",Scandinavian,1
+Cake,"Christmas common",1
+Baguette,"Christmas common",1
+"Christmas common",Truffles,1
+"Christmas common",Tea,1
+"Christmas common","Spanish Brunch",1
+Fudge,Panatone,1
+Focaccia,Panatone,1
+Fudge,"Jammie Dodgers",1
+Frittata,"Jammie Dodgers",1
+"Extra Salami or Feta",Jam,1
+"Extra Salami or Feta",Frittata,1
+"Extra Salami or Feta","Mineral water",1
+Jam,"Mineral water",1
+"Farm House","The Nomad",1
+"Chicken Stew",Chocolates,1
+"Farm House","Nomad bag",1
+Eggs,Tea,1
+"Art Tray",Medialuna,1
+"Farm House","Mineral water",1
+"Jammie Dodgers","Vegan Feast",1
+Baguette,Coke,1
+"Coffee granules ",Mortimer,1
+Honey,Tacos/Fajita,1
+Cake,Honey,1
